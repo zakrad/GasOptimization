@@ -1,0 +1,4 @@
+DistributeTest:testDistribute() (gas: 68941)
+DistributeTest:test_Distribute() (gas: 71802)
+DistributeTest:test_RevertDistribute() (gas: 10493)
+DistributeTest:test_RevertDistribute() (gas: 8174)
